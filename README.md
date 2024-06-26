@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command to clone the repository:
 
-git clone https://github.com/EngMufunga/your-repository.git
+git clone https://github.com/EngMufunga/propertybook.git
 
 cd your-repository
 
